@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ElSol47 or Mr CZ Tango
-- 👀 I’m interested in cybersecurity 
+- 👀 some stuff for Flipper Zero
 - 🌱 I’m currently learning Cybersecurity and Ethical Hacking
 - 💞️ I’m looking to collaborate on Flipper Zero 
 - 📫 How to reach me hit me up on my discord sol4769
